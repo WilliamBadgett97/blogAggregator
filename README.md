@@ -23,4 +23,3 @@ cd gator-cli
 First, Build the application by typing "go build" from the root dir
 Then run the application by typing "./blogaggregator" with the following command "help"
 The help command will list all of the commands at your use, and their use case!
-# blogAggregator
